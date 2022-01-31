@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Fogadasch</string>
+    <string name="foci">Foci</string>
+    <string name="basketball">Kosárlabda</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Új fogadás</string>
+    <string name="menu_slideshow">Aktív fogadások</string>
+    <string name="menu_history">Történet</string>
+    <string name="kedvenc">Kedvenc</string>
+    <string name="kedvencek">Kedvencek</string>
+    <string name="details">Odds Részletek</string>
+    <string name="oddsx">Döntetlen</string>
+    <string name="addMatchDialogTitle">Válassz egy mérkőzést</string>
+    <string name="eredoOdds">Eredő odds</string>
+    <string name="kotes">Kötés</string>
+    <string name="prise">Nyeremény</string>
+    <string name="basicBet">Alaptét</string>
+    <string name="back">Vissza</string>
+    <string name="date">Dátum</string>
+    <string name="basic_bet">Felrakni kívánt összeg</string>
+    <string name="select_combi">Kombináció kiválasztása:</string>
+    <string name="eredoodds">Eredő odds:</string>
+    <string name="max_value_prise">Várható maximális nyeremny:</string>
+    <string name="btAdd">Hozzáad</string>
+    <string name="btDelete">Töröl</string>
+    <string name="btOk">OK</string>
+    <string-array name="spinner_kombi">
+        <item>Nincs</item>
+        <item>3/4</item>
+        <item>3/5</item>
+        <item>3/6</item>
+        <item>4/5</item>
+        <item>4/6</item>
+        <item>5/6</item>
+        <item>5/7</item>
+        <item>6/7</item>
+    </string-array>
+
+    <string-array name="select_values">
+        <item>Hazai</item>
+        <item>Döntetlen</item>
+        <item>Idegenbeli</item>
+    </string-array>
+</resources>
